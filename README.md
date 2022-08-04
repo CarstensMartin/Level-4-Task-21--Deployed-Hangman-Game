@@ -13,7 +13,7 @@ To be able to successfully do this, you will need to consolidate all the concept
 
 Create a React app that allows users to play Hangman. The game picks a random word, which the user must then attempt to guess letter-by-letter. Too many incorrect guesses result in loss of the game. Iconically the process of losing is depicted by your character being hanged.
 
-Assets for the game (including hangman-steps images and random words) can be found in the task Dropbox. You need not make use of them if you don’t want to.
+Assets for the game (random words) can be found in the task Dropbox. You need not make use of them if you don’t want to.
 
 The game you create should meet the following criteria:
 
