@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Level-4-Task-21--Deployed-Hangman-Game/static/css/main.37fd9935.css",
+    "main.js": "/Level-4-Task-21--Deployed-Hangman-Game/static/js/main.4efbbce0.js",
+    "static/js/787.2b10ef56.chunk.js": "/Level-4-Task-21--Deployed-Hangman-Game/static/js/787.2b10ef56.chunk.js",
+    "static/media/lost.jpg": "/Level-4-Task-21--Deployed-Hangman-Game/static/media/lost.fcb8105c088c6edad343.jpg",
+    "static/media/dictionary.txt": "/Level-4-Task-21--Deployed-Hangman-Game/static/media/dictionary.eebd0e8a968de1ebd3c4.txt",
+    "static/media/win.jpg": "/Level-4-Task-21--Deployed-Hangman-Game/static/media/win.8b77e3172006c03290de.jpg",
+    "index.html": "/Level-4-Task-21--Deployed-Hangman-Game/index.html",
+    "main.37fd9935.css.map": "/Level-4-Task-21--Deployed-Hangman-Game/static/css/main.37fd9935.css.map",
+    "main.4efbbce0.js.map": "/Level-4-Task-21--Deployed-Hangman-Game/static/js/main.4efbbce0.js.map",
+    "787.2b10ef56.chunk.js.map": "/Level-4-Task-21--Deployed-Hangman-Game/static/js/787.2b10ef56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37fd9935.css",
+    "static/js/main.4efbbce0.js"
+  ]
+}
